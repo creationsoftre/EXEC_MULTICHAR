@@ -1,0 +1,23 @@
+# Git
+.git/
+
+# FiveM/cache artifacts
+.fxap
+cache/
+stream_cache/
+*.rpf
+*.rpf.db
+*.sfl
+*.sfl.db
+
+# Logs/runtime data
+logs/
+*.log
+*.tmp
+*.bak
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
